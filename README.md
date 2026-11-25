@@ -303,10 +303,10 @@ C3 : Insufficient Infrastructure Redundancy
 C4 : Obsolete and Vulnerable Backup Server
 
 SRV-BKP01 runs Debian 7 and exposes several outdated services:
-* FTP –-> Port 21.
-* SSH –-> Port 22.
-* Telnet –-> Port 23.
-* MySQL –-> Port 3306.
+* FTP --> Port 21.
+* SSH --> Port 22.
+* Telnet --> Port 23.
+* MySQL --> Port 3306.
 
 The obsolete operating system and legacy services increase the risk of unauthorized access and compromise of backup infrastructure.
 
