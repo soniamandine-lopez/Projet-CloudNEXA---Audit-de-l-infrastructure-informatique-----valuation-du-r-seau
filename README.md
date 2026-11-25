@@ -1,6 +1,6 @@
 # CloudNexa Project : IT Infrastructure Audit & Network Assessment
 
-<img src="Images/Schéma_réseau.png" width="60%" />
+<img src="Images/Schéma_réseau.png" width="100%" />
 
 
 ---
@@ -135,7 +135,7 @@ The physical connection of the DMZ servers could not be fully verified during th
 
 The following network segments were identified :
 
-<img src="Images/Plan_adressage.png" width="100%" />
+<img src="Images/Plan_adressage.png" width="60%" />
 
 The user network was found to be operating at approximately 99% DHCP utilization, leaving very limited capacity for additional devices.
 
@@ -262,7 +262,7 @@ Both impact and likelihood were rated on a scale from 1 to 4.
 
 The resulting score was used to classify findings according to their severity.
 
-<img src="Images/Tableau_criticité.png" width="60%" />
+<img src="Images/Tableau_criticité.png" width="80%" />
 
 This classification provided a consistent framework for prioritizing remediation actions according to their potential impact on infrastructure security, availability, and scalability.
 
@@ -275,7 +275,7 @@ After identifying the infrastructure components, the next step was to reconstruc
 
 The audit identified nine findings affecting infrastructure availability, security, resilience, and scalability.
 
-<img src="Images/Tableau_constats.png" width="60%" />
+<img src="Images/Tableau_constats.png" width="200%" />
 
 ### 1. Critical Findings
 
